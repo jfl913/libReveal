@@ -1,0 +1,11 @@
+{
+	Filter = {
+		Bundles = (
+			"com.juangua.mogujie",
+			"com.moke.moke-2",
+			"com.sina.weibo",
+			"com.tencent.xin",
+			"com.tencent.mqq"
+		);
+	};
+}
