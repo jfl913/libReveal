@@ -5,7 +5,8 @@
 			"com.moke.moke-2",
 			"com.sina.weibo",
 			"com.tencent.xin",
-			"com.tencent.mqq"
+			"com.tencent.mqq",
+			"com.husor.beibei"
 		);
 	};
 }
