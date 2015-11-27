@@ -6,7 +6,8 @@
 			"com.sina.weibo",
 			"com.tencent.xin",
 			"com.tencent.mqq",
-			"com.husor.beibei"
+			"com.husor.beibei",
+			"com.taobao.tmall"
 		);
 	};
 }
